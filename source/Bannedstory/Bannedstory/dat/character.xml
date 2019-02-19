@@ -1,0 +1,12 @@
+<!--
+BannedStory by Ion
+
+CUSTOM Character table
+-->
+<i u="img/custom/Character/">
+<i name="Body" u="Body"/>
+<i name="Face" u="Face"/>
+<i name="Hair" u="Hair">
+<i u="XIPE_Hair_001" n="XIPE Hair (by XIPE)" g="m"/>
+</i>
+</i>

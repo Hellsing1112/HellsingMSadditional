@@ -1,0 +1,81 @@
+<!--
+BannedStory by Ion
+
+CUSTOM Equips table
+
+Guide:
+- 'u' is the partial url. The main url is formed
+  by the union of the tree/branch/leaf nodes.
+  
+- 'n' is the name of the node. WARNING: do not modify
+  this attribute in the item category nodes, or the
+  application will not work properly.
+  
+- 'j' is the job of the item: 
+   7: NX cash
+   0: No Class
+   1: Warrior
+   2: Mage
+   4: Bowman
+   8: Thief
+   
+   For items that belongs to more than one class,
+   join the class numbers with dots. For example,
+   an item for warriors and thiefs would be
+   j="1.8"
+
+- 'g' attribute is the gender of the item.
+-->
+
+<i u="img/custom/Character">
+<i u="Accessory" name="Face Accessory">
+<i u="Face_tattoo" j="0" n="Face Tattoo (by Iph)" g="n"/>
+<i u="Face_tattoo_blue" j="0" n="Blue Face Tattoo (by Iph)" g="n"/>
+<i u="Face_Tattoo_two" j="0" n="Face Tattoo two (by Iph)" g="n"/>
+</i>
+<i u="Accessory" name="Eye Accessory"></i>
+<i u="Accessory" name="Ear Accessory">
+<i u="Golden_Ereths" n="Golden Ereths (by Iph)" j="7" g="n"/>
+</i>
+<i u="Cap" name="Hat">
+<i u="Bowmaster" n="Dark Slethirn (by Iph)" j="4" g="n"/>
+<i u="Tailes_Cap_001" g="n" j="7" n="Dragon Slayer Helmet"/>
+</i>
+<i u="Coat" name="Top"></i>
+<i u="Longcoat" name="Overall"></i>
+<i u="Pants" name="Bottom"></i>
+<i u="Cape" name="Cape"></i>
+<i u="Glove" name="Gloves"></i>
+<i u="Shield" name="Shield"></i>
+<i u="Shoes" name="Shoes"></i>
+<i u="Weapon" name="Weapon - Other">
+<i u="cuckooman4_0026" n="Chainsaw (by cuckooman4)" g="n" j="0"/>
+<i u="cuckooman4_0027" n="Bloody Chainsaw (by cuckooman4)" g="n" j="0"/>
+</i>
+<i u="Weapon" name="Weapon - One Handed Sword">
+<i u="Kandon_Weapon_010" g="n" j="7" n="Frostmourne (by Kandon)"/>
+</i>
+<i u="Weapon" name="Weapon - One Handed Axe"></i>
+<i u="Weapon" name="Weapon - One Handed Mace">
+<i u="Kandon_Weapon_001" g="n" j="7" n="Numchaku (by Kandon)"/>
+</i>
+<i u="Weapon" name="Weapon - Dagger/Cutter">
+<i u="Kandon_Weapon_011" g="n" j="7" n="Tri-Edge Blade (by Kandon)"/>
+</i>
+<i u="Weapon" name="Weapon - Wand"></i>
+<i u="Weapon" name="Weapon - Staff">
+<i u="bo_staff" g="n" n="Bo Staff (by Grimmjow)" j="0" />
+</i>
+<i u="Weapon" name="Weapon - Two Handed Sword"></i>
+<i u="Weapon" name="Weapon - Two Handed Axe"></i>
+<i u="Weapon" name="Weapon - Two Handed Mace"></i>
+<i u="Weapon" name="Weapon - Spear">
+<i u="Kandon_Weapon_012" g="n" j="7" n="Herakross (by Kandon)"/>
+</i>
+<i u="Weapon" name="Weapon - Pole Arm"></i>
+<i u="Weapon" name="Weapon - Bow"></i>
+<i u="Weapon" name="Weapon - Crossbow"></i>
+<i u="Weapon" name="Weapon - Claw">
+<i u="Kandon_Weapon_014" g="n" j="7" n="Demon Wing (by Kandon)"/>
+</i>
+</i>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.0">
+
+  <id>bs.BannedStory</id>
+
+  <version>3.0.1</version>
+
+  <filename>BannedStory</filename>
+
+  <description>BannedStory, animated character simulator for MapleStory.</description>
+
+  <name>BannedStory 3.0</name>
+
+  <copyright>2006-2008, by Ion</copyright>
+
+  <initialWindow>
+    <content>BannedStory.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+
+  <icon>
+    <image128x128>AppIconsForAIRPublish/128.png</image128x128>
+    <image48x48>AppIconsForAIRPublish/48.png</image48x48>
+    <image32x32>AppIconsForAIRPublish/32.png</image32x32>
+    <image16x16>AppIconsForAIRPublish/16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+  <programMenuFolder>MapleSim</programMenuFolder>
+
+</application>
